@@ -1,0 +1,27 @@
+*{
+    margin-bottom: 5px;
+    color: #323232;
+}
+.container {
+    padding-top: 10px;
+}
+.img-text {
+    font-size: 16px;
+    color: #bcbbbb;
+}
+.title-text {
+    font-size: 44px;
+}
+.subtitle-text {
+    font-size: 22px;
+}
+hr {
+    border: 1px solid darkgrey;
+}
+p {
+    font-size: 30px;
+    color: #bcbbbb;
+}
+.img-heading {
+    font-size: 24px;
+}
